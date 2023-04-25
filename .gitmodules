@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Ionut-Frisan/home-tasks-frontend.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Ionut-Frisan/home-tasks-backend.git
